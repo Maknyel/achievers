@@ -1,0 +1,36 @@
+.buttonrightdiv{
+	text-align: right;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.cover_upload{
+  /*background: red;*/
+  width: 100%;
+  height: auto;
+  margin-bottom: 100px;
+  border: 3px solid #6f6452;
+}
+
+.nodisplay{
+	display: none !important;
+}
+
+.upload_fa{
+  font-size: 100px !important;
+    /*margin-top: auto;*/
+    margin: 20px;
+}
+
+#close_file i{
+
+    border: 3px solid #6f6452;
+    margin-left: 10px;
+    font-size: 30px;
+    border-radius: 50%;
+}
+
+.display-flex{
+  display: flex;
+  align-items: center;
+}

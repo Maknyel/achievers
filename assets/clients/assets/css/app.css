@@ -1,0 +1,198 @@
+.img_profile_div_admin{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+  }
+
+  .on-pointer{
+    cursor: pointer;
+  }
+
+  .admin2_image{
+    overflow: hidden;
+    width: 100%;
+    height: 20vh;
+
+    position: relative;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+  }
+
+  .admin2div{
+    position: relative;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,.2);
+    border-radius: 3px;
+    margin: 10px;
+  }
+
+  center .admin2div .div-text {
+      padding: 20px 20px;
+  }
+
+  .admin2div .div-text{
+    padding: 20px 0;
+    background: #f9f9f9;
+  }
+
+  .admin2wrapword{
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+  }
+
+  .width-button-admin4{
+
+    display: initial !important;
+  }
+
+  .width-button-admin4 button{
+    width: 37px;
+  }
+
+  .width-button-admin3{
+
+    width: calc(100% - 41px) !important;
+  }
+
+  .lellipsis{
+    color:transparent;
+  }
+
+  #hoverdrop-ellipsis:hover .lellipsis,
+  #hoverdrop-ellipsis:focus .lellipsis,
+  #hoverdrop-ellipsis:active .lellipsis
+  {
+    color:transparent;
+  }
+
+  .font-sub-title{
+    font-size: 10px;
+
+  }
+
+  .team-info {
+    padding: 20px;
+    position: relative;
+    z-index: 99;
+    background: #fff;
+  }
+
+  .list-inline-item:not(:last-child) {
+    margin-right: 5px;
+  }
+
+  .social-icon > li a, .social-icon a, .team-icon > li a, .main-icon i {
+    background-color: transparent;
+    font-size: 15px;
+    border-radius: 50%;
+    color: #bb3c3cba;
+    border: 1.4px solid #bb3c3cba;
+    display: inline-block;
+    height: 36px;
+    line-height: 34px;
+    text-align: center;
+    width: 36px;
+    transition: all 0.5s;
+  }
+
+  .social-icon-footer > li a, .social-icon a, .team-icon > li a, .main-icon i {
+      background-color: transparent;
+      font-size: 15px;
+      border-radius: 50%;
+      color: #bb3c3cba;
+      border: 1.4px solid #bb3c3cba;
+      display: inline-block;
+      height: 36px;
+      line-height: 34px;
+      text-align: center;
+      width: 36px;
+      transition: all 0.5s;
+  }
+  .gallary-title a {
+      color: #696666;
+  }
+
+  .admin2div:hover .img_profile_div_admin {
+      opacity: 0.85;
+  }
+
+  .background-properties{
+
+    background-image: url(../../../../assets/image/sect-aboutus.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+  }
+
+  .background-agents{
+    background-image: url(../../../../assets/image/sect-aboutus.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+  }
+
+  .background-news{
+    background: linear-gradient(#00000017, #ff6a6a4a);
+  }
+
+  .portfolios.sortable header {
+      font-size: 1.2em;
+      line-height: 1.8em;
+      clear: both;
+      overflow: hidden;
+  }
+  article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+      display: block;
+  }
+  .portfolios.sortable header a {
+      display: block;
+      float: left;
+      padding: 5px 10px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      background-color: #eee;
+      color: #666;
+      border-radius: 5px;
+      -moz-border-radius: 5px;
+      border: 1px solid #bbb;
+  }
+
+  .portfolios.sortable header a.active {
+      background-color: #bbb;
+      color: #000;
+  }
+
+  .portfolios.sortable header span {
+      display: block;
+      float: left;
+      margin-right: 5px;
+      padding: 10px 0;
+  }
+
+  .divimage50vh{
+    width: 100%;
+    height: 50vh;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .imgfloat{
+    width: 100%!important;
+    position: absolute!important;
+    margin: auto;
+    height: auto!important;
+    bottom: -9999px;
+    right: -9999px;
+    top: -9999px;
+    left: -9999px;
+  }
