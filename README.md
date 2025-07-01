@@ -38,4 +38,4 @@ Achievers is a comprehensive real estate listing website designed to streamline 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/achievers.git
+   git clone https://github.com/Maknyel/achievers.git
